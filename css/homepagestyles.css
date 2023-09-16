@@ -1,0 +1,22 @@
+body {
+    background-color: burlywood;
+}
+
+.home-page-text {
+    font-family: 'Courier New', Verdana, sans-serif;
+    color: #000;
+    text-align: left;
+}
+
+#homepageheader {
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    width: 450px;
+    height: 250px;
+    margin-left: 70px;
+}
+
+
